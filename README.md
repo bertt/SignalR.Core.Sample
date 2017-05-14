@@ -19,3 +19,5 @@ $ dotnet run
 ```
 
 In browser go to http://localhost:5000
+
+<img src = "signalr_core.gif"/>
