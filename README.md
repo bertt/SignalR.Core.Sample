@@ -16,7 +16,9 @@ In this sample the following capabilities are demonstrated:
 
 Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview
 
+```
 $ dotnet --version
+```
 
 Should return: 2.0.0-preview1-005977
 
