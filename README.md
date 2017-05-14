@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a sample of running SignalR on .NET Core 2.0
+This is a sample of running SignalR on .NET Core 2.0.
 
 ## Prerequisites 
 
@@ -29,6 +29,10 @@ In browser go to http://localhost:5000
 ## Demo 
 
 <img src = "signalr_core.gif"/>
+
+## Development
+
+For further development best is to use Visual Studio Code. For running in Visual Studio, a new preview 2017 version is needed.
 
 ## Remarks
 
