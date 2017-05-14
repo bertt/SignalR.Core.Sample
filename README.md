@@ -1,4 +1,4 @@
-# SignalR.Core.Sample
+# Running SignalR on .NET Core 2.0.
 
 ## Introduction
 
