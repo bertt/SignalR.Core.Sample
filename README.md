@@ -1,5 +1,9 @@
 # SignalR.Core.Sample
 
+## Introduction
+
+This is a sample of running SignalR on .NET Core 2.0
+
 ## Prerequisites 
 
 Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview
