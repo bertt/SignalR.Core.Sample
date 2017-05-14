@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-src-5026C7DA-A614-4F6B-906F-843371A9483A</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0-preview1-final" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.0.0-preview2-25031" />
+  </ItemGroup>
+
+</Project>
