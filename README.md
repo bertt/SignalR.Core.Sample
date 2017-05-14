@@ -2,7 +2,7 @@
 
 Prerequisites: 
 
-- Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview#windowscmd
+- Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview
 
 $ dotnet --version
 
