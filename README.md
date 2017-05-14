@@ -6,7 +6,7 @@ This is a sample of running SignalR on .NET Core 2.0.
 
 In this sample the following capabilities are demonstrated:
 
-- Runing cross-platform;
+- Running cross-platform;
 
 - Running client without JQuery dependency;
 
