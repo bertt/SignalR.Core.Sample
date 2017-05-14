@@ -4,6 +4,14 @@
 
 This is a sample of running SignalR on .NET Core 2.0.
 
+In this sample the following capabilities are demonstrated:
+
+- Runing cross-platform;
+
+- Running client without JQuery dependency;
+
+- Default transport method is websockets.
+
 ## Prerequisites 
 
 Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview
