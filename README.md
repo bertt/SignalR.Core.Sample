@@ -40,6 +40,31 @@ In browser go to http://localhost:5000
 
 <img src = "signalr_core.gif"/>
 
+## Protocol
+
+1] get token
+
+request: http://localhost:5000/chat/negotiate?
+
+response: d6515a93-4533-4654-9bf6-530718bc8e4a
+
+2] change to websockets
+
+request: ws://localhost:5000/chat/ws?id=d6515a93-4533-4
+
+101 Switching Protocols
+
+response: Connection:Upgrade
+
+websocket address: ws://localhost:5000/chat/ws?id=34ec2078-019a-4f9f-9415-2b1e2d5ff247
+
+3] send message
+
+{"invocationId":"1","type":1,"target":"Send","nonBlocking":true,"arguments":["ha"]}
+
+More on the protocol https://github.com/aspnet/SignalR/blob/dev/specs/HubProtocol.md
+
+
 ## Development
 
 For further development best is to use Visual Studio Code. For running in Visual Studio, a new preview 2017 version is needed.
