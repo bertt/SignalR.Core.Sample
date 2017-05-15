@@ -56,14 +56,11 @@ request: ws://localhost:5000/chat/ws?id=d6515a93-4533-4
 
 response: Connection:Upgrade
 
-websocket address: ws://localhost:5000/chat/ws?id=34ec2078-019a-4f9f-9415-2b1e2d5ff247
-
 3] send message
 
-{"invocationId":"1","type":1,"target":"Send","nonBlocking":true,"arguments":["ha"]}
+{"invocationId":"5","type":1,"target":"Send","nonBlocking":true,"arguments":["yo"]
 
 More on the protocol https://github.com/aspnet/SignalR/blob/dev/specs/HubProtocol.md
-
 
 ## Development
 
