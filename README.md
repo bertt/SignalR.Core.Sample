@@ -68,6 +68,8 @@ For further development best is to use Visual Studio Code. For running in Visual
 
 ## Remarks
 
+The Microsoft.AspNetCore.SignalR we get from: https://dotnet.myget.org/feed/aspnetcore-dev/package/nuget/Microsoft.AspNetCore.SignalR
+
 The file signalr-client.js is a copy from the npm signalr-client package:
 
 ```
