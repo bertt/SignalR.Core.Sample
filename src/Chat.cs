@@ -3,8 +3,9 @@ using Microsoft.AspNetCore.SignalR;
 
 public class Chat : Hub
 {
-    public Task Send(string data)
+    public void Send(string name, string message)
     {
-        return Clients.All.InvokeAsync("Send", data);
+        //return Clients.All.InvokeAsync("Send", data);
+         Clients.All.SendAsync("broadcastMessage", name, message);
     }
 }

@@ -1,8 +1,8 @@
-# Running SignalR on .NET Core 2.0.
+# Running SignalR on .NET Core 2.1.
 
 ## Introduction
 
-This is a sample of running SignalR on .NET Core 2.0.
+This is a sample of running SignalR on .NET Core 2.1.
 
 In this sample the following capabilities are demonstrated:
 
@@ -14,13 +14,13 @@ In this sample the following capabilities are demonstrated:
 
 ## Prerequisites 
 
-Install .NET Core 2.0 Preview 1: https://www.microsoft.com/net/core/preview
+Install .NET Core 2.1 Preview 1: https://www.microsoft.com/net/core/preview
 
 ```
 $ dotnet --version
 ```
 
-Should return: 2.0.0-preview1-005977
+Should return: 2.1.300-preview1-008174
 
 ## Startup
 
