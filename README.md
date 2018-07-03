@@ -14,7 +14,7 @@ In this sample the following capabilities are demonstrated:
 
 ## Prerequisites 
 
-Install .NET Core 2.1 Preview 1: https://www.microsoft.com/net/core/preview
+Install .NET Core 2.1: https://www.microsoft.com/net/core/
 
 ```
 $ dotnet --version
