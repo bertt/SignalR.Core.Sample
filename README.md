@@ -20,7 +20,7 @@ Install .NET Core 2.1 Preview 1: https://www.microsoft.com/net/core/preview
 $ dotnet --version
 ```
 
-Should return: 2.1.300-preview1-008174
+Should return: 2.1.301
 
 ## Startup
 
